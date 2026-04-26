@@ -1,0 +1,22 @@
+[
+    {
+        "file": "01",
+        "image": "imgs/flag_1.png",
+        "wait": 6
+    },
+    {
+        "file": "02",
+        "image": "imgs/flag_2.png",
+        "wait": 6
+    },
+    {
+        "file": "03",
+        "image": "imgs/flag_3,.png",
+        "wait": 6
+    },
+    {
+        "file": "04",
+        "image": "imgs/flag_4.png",
+        "wait": 6
+    },
+]
