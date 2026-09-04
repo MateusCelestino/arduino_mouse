@@ -24,3 +24,12 @@ Usage
 Run the Python script and call human_move(x, y) to move the cursor naturally to any screen coordinate.
 
 Compatible with any setup where Arduino can act as a USB mouse. Can be extended for ESP32 + Bluetooth HID.
+
+---
+
+## Site ZeroVolumeMateus (`site/`)
+
+Este repositório também hospeda o site do streamer **ZeroVolumeMateus** — Next.js
++ TypeScript + Tailwind + Supabase, com site público e painel Admin.
+Instalação, migrations SQL, criação do usuário admin e deploy na Vercel estão em
+[`site/README.md`](site/README.md).
